@@ -1,6 +1,1 @@
-def hellow():
-    print ("Hello World")
-
-hellow()
-
-#Commentarios
+print ("Holas!")
